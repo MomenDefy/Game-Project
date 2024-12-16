@@ -44,7 +44,7 @@ void FillMatrxiByMyBackGround(char X[][3000])
 	}
 
 }
-
+tesrc
 void DispToscreen(char X[][3000])
 {
 	system("cls");
